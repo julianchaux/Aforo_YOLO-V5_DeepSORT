@@ -1,0 +1,3 @@
+En el environment de Anaconda: YOLOV5_DeepSORT
+
+python track.py --source video3.mp4 --show-vid --classes 0
