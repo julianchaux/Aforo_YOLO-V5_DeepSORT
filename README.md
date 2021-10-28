@@ -33,6 +33,7 @@ Si sólo quiere rastrear personas:
 
 ```bash
 python3 track.py --source 0 --yolo_weights yolov5/weights/crowdhuman_yolov5m.pt --classes 0
+python track.py --source video.mp4 --yolo_weights yolov5/weights/crowdhuman_yolov5m.pt --show-vid --classes 0
 ```
 
 Si desea realizar un seguimiento de un subconjunto de clases de MS COCO, añada su índice correspondiente después del indicador de clases:
