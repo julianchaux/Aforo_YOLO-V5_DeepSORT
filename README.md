@@ -1,6 +1,13 @@
 # Control de Aforo usando YOLO-V5 y DeepSORT
 Detección de aforo utilizando YOLO V5 y Deep Sort
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="www.julianchaux.com/videos/Resultado1.mp4" type="video/mp4">
+  </video>
+</figure>
+
+
 ## Introducción
 
 Este repositorio contiene un algoritmos de seguimiento de objetos de dos etapas. Las detecciones generadas por [YOLOv5](https://github.com/ultralytics/yolov5), una familia de arquitecturas y modelos de detección de objetos preentrenados en el conjunto de datos COCO, se pasan a un [algoritmo Deep Sort](https://github.com/ZQPei/deep_sort_pytorch) que rastrea los objetos. Puede rastrear cualquier objeto que su modelo Yolov5 haya sido entrenado para detectar.
