@@ -1,11 +1,7 @@
 # Control de Aforo usando YOLO-V5 y DeepSORT
 Detección de aforo utilizando YOLO V5 y Deep Sort
 
-<div align="center">
-<p>
-<img src="https://www.julianchaux.com/videos/Resultado1.gif" width="400"/> <img src="http://www.julianchaux.com/videos/Resultado1.gif" width="400"/> 
-</p>
-</div>
+![Alt Text](https://www.julianchaux.com/videos/Resultado1.gif)
 
 
 ## Introducción
