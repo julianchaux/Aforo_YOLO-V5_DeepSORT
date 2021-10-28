@@ -1,5 +1,5 @@
 # Control de Aforo usando YOLO-V5 y DeepSORT
-Detección de aforo utilizando YOLO V5 y Deep Sort
+Control de aforo utilizando YOLO V5 y Deep Sort.  Proyecto desarrollado en el marco del Diplomado en Machine Learning entre el SENA y la Universidad de Santander (UDES).
 
 <div align="center">
 <p>
