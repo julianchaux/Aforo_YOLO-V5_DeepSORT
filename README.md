@@ -3,7 +3,7 @@ Control de aforo utilizando YOLO V5 y Deep Sort.  Proyecto desarrollado en el ma
 
 <div align="center">
 <p>
-<img src="Resultado1.gif" width="300"/> <img src="Resultado2.gif" width="300"/> <img src="Resultado3.gif" width="300"/> 
+<img src="Resultado1.gif" width="300"/> <img src="Resultado2.gif" width="300"/> <img src="Resultado3.gif" width="300"/> <img src="Resultado7.gif" width="300"/>
 </p>
 </div>
 
